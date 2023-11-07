@@ -146,22 +146,22 @@ git clone [url]
 
 
 - ## Berikut ini bukti pengerjaan-nya
-- ``` praktikum2 (modul 2)(lab2py02)```
+-  praktikum2 (modul 2)(lab2py02)
 - ![alt text](?![lab2py02 praktikum2](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/b7f1c747-730c-4694-b746-149fb0e6d621)
 raw=true)
-- ``` praktikum3 (modul 3)(lab2py02)```
+-  praktikum3 (modul 3)(lab2py02)
 - ![alt text](?![lab2py03 latihan1](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/ddcaf506-fd44-4f4f-992b-68f4b0b4ab75)
 raw=true)
 - ![alt text](?![lab2py03 latihan2](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/4ecb3369-224a-4873-b00e-d8a1cb85d53a)
 raw=true)
 - ![alt text](?![lab2py03 program1](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/65968c68-338a-4e07-8f41-d55904ddeff6)
 raw=true)
-- ```lab2 struktur kondisi
+- lab2 struktur kondisi
 - ![alt text](?![lab2struktur_conditional latihan1](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/90f5f6d2-b53a-4875-be0b-e6d5ac5adcb4)
 raw=true)
 - ![alt text](?![lab2struktur_conditional latihan2](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/22e451e1-63c6-4dfa-82c4-2be7fff39a4e)
 raw=true)
-- ```lab3 perulangan
+- lab3 perulangan
 - ![alt text](?![lab3perulangan latihan1](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/2bb3b8b2-39a2-470b-9e35-8d82eb72e37d)
 raw=true)
 - ![alt text](?![lab3perulangan latihan2](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/e75be301-c1d2-49fb-8cef-349d50e42db9)
