@@ -164,5 +164,5 @@ raw=true)
 - ```lab3 perulangan
 - ![alt text](?![lab3perulangan latihan1](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/2bb3b8b2-39a2-470b-9e35-8d82eb72e37d)
 raw=true)
-- ![alt text](?![lab3perulangan latihan1](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/4dcd7d88-38a9-4970-948e-076d2bd9d613)
+- ![alt text](?![lab3perulangan latihan2](https://github.com/nurulaisyah14/Praktikum_4/assets/148174512/e75be301-c1d2-49fb-8cef-349d50e42db9)
 raw=true)
